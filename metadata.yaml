@@ -1,0 +1,45 @@
+_repo: Types-of-Naval-OfficersDrawn-from-the-History-of-the-British-Navy_18314
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mahan, A. T. (Alfred Thayer)
+    aliases:
+    - Mahan, Alfred Thayer
+    - Mahan, Alfred T.
+    birthdate: 1840
+    deathdate: 1914
+    gutenberg_agent_id: '5116'
+    url: http://www.gutenberg.org/2009/agents/5116
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Thayer_Mahan
+description: ''
+gutenberg_issued: '2006-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18314'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Admirals -- Great Britain -- Biography'
+- !lcsh 'Hawke, Edward Hawke, Baron, 1705-1781'
+- !lcsh 'Great Britain. Royal Navy -- Biography'
+- !lcsh 'Great Britain -- History, Naval -- 18th century'
+- !lcsh 'Great Britain -- History, Naval -- 19th century'
+- !lcsh 'St. Vincent, John Jervis, Viscount, 1735-1823'
+- !lcsh 'Exmouth, Edward Pellew, Viscount, 1757-1833'
+- !lcsh 'Saumarez, James, 1757-1836'
+- !lcsh 'Rodney, George Brydges Rodney, Baron, 1719-1792'
+- !lcsh 'Great Britain. Royal Navy -- History'
+- !lcsh 'Howe, Richard Howe, Earl, 1726-1799'
+- !lcc 'DA'
+tableOfContents: Introductory; conditions of naval warfare at the beginning of the
+  eighteenth century -- Progress of naval warfare during the eighteenth century; Hawke,
+  the spirit; Rodney, the form -- Howe, the general officer, as tactician -- Jervis,
+  the general officer, as disciplinarian and strategist -- Saumarez, the fleet officer
+  and division commander -- Pellew, the frigate captain and partisan officer.
+title: Types of Naval Officers, Drawn from the History of the British Navy
+url: http://www.gutenberg.org/ebooks/18314
